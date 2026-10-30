@@ -1,0 +1,13 @@
+# Local only
+CLAUDE.md
+CLAUDE.md.tmp*
+.claude/
+
+# Build output (the zip goes into the release)
+dist/
+bin/
+obj/
+
+# Test runs and measurements
+bench/
+*.log
